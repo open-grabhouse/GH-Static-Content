@@ -1,0 +1,76 @@
+{
+  "news" : [
+    { 
+      "name" : "live mint",
+      "url" : "http://www.livemint.com/Companies/rEy135yoa9K22ML0cl4IzO/Grabhouse-raises-25-million-from-Kalaari-Sequoia-Capital.html",
+      "identifier" : "live-mint"
+    },
+    {
+      "name" : "dna",
+      "url" : "http://dnasyndication.com/dna/Mumbai/dna_english_news_and_features/Leverage-your-online-connect/DNMUM320633",
+      "identifier" : "dna"
+    },
+    {
+      "name" : "next big what",
+      "url" : "http://www.nextbigwhat.com/flat-finding-website-grabhouse-secures-series-funding-297/",
+      "identifier" : "next-big"
+    },
+    {
+      "name" : "mid day",
+      "url" : "http://www.mid-day.com/articles/house-hunting-forget-the-broker/15787197",
+      "identifier" : "mid-day"
+
+    },
+    {
+      "name" : "techcircle",
+      "url" : "http://techcircle.vccircle.com/2015/01/28/accommodation-listing-site-grabhouse-com-raises-2-5m-in-series-a-funding-from-kalaari-sequoia/",
+      "identifier" : "tech-circle"
+
+    },
+    {
+      "name" : "BusinessLine",
+      "url" : "http://www.thehindubusinessline.com/features/investment-world/your-money/on-a-house-hunt-keep-the-broker-out/article6410075.ece",
+      "identifier" : "business-line"
+
+    },
+    {
+      "name" : "The Economic Times",
+      "url" : "http://economictimes.indiatimes.com/news/emerging-businesses/entrepreneurship/women-entrepreneurs-show-the-way-for-workplace-gender-parity/articleshow/46571466.cms",
+      "identifier" : "economic-times"
+
+    },
+    {
+      "name" : "Bangalore Mirror",
+      "url" : "http://www.bangaloremirror.com/columns/work/One-Question-Two-CEOs-One-thing-you-do-on-waking-up-and-before-going-to-bed/articleshow/46135178.cms",
+      "identifier" : "bangalore-mirror"
+
+    }
+  ],
+
+  "testimonials" : [
+    {
+      "avatarUrl": "images/anurag_murty.jpg",
+      "fullName": "Anurag Murty",
+      "text": "I saved a fortune on paying a broker and was able to precisely specify my needs to the relationship manager. Searching for a house ended up being a much easier task than I expected."
+    },
+    {
+      "avatarUrl": "images/akanksha_shukla.jpg",
+      "fullName": "Akanksha Shukla",
+      "text": "Found a place just in time. It was a PGs that Grabhouse suggested to me. I got a single room to my liking with everything that I wanted. The landlady is also cooperative. I must thank the team for all their help and cooperation."
+    },
+    {
+      "avatarUrl": "images/tushar_khandelwal.jpg",
+      "fullName": "Tushar Khandelwal",
+      "text": "The service is fantastic. I liked the flat I got in Thane. It’s perfect for 2-3 working guys and has decent facilities around. My friends are still shocked that we found a home without a broker. Thanks a lot, Grabhouse team!"
+    },
+    {
+      "avatarUrl": "images/saurav.jpg",
+      "fullName": "Saurav",
+      "text": "The most amazing thing is that Grabhouse promised me that they will get me a place on the same day and they did. I was so happy they managed to keep their word. I have already recommended Grabhouse to all my office colleagues."
+    }
+  ],
+
+  "sliderConfig" : {
+    "interval" : "5000"
+  }
+}

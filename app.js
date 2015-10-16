@@ -38,7 +38,6 @@
         controller: function($scope,$element,$attrs) {
           staticContent.fetchData($attrs.resource).then(function(data) {
             $scope.staticData = data;
-            console.log(data);
           });
         },
         replace: true

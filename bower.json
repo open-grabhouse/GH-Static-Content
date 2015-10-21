@@ -6,7 +6,7 @@
   },
   "homepage": "https://github.com/open-grabhouse/GH-Static-Content",
   "authors": [
-    "Ankur Mishra <ankurmishra@gmail.com>"
+    "Ankur Mishra <ankish.1106@gmail.com>"
   ],
   "description": "A configurable directive for plane static UI elements. Currently for News and testimonial items on Grabhouse home page",
   "main": "app.js",

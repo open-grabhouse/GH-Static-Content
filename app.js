@@ -37,11 +37,11 @@
                 templateUrl: function(elem, attr) {
                     return attr.template;
                 },
-                controller: function($scope, $element, $attrs) {
+                controller: ['$scope', '$element', '$attrs', function($scope, $element, $attrs) {
                     $staticContent.fetchData($attrs.resource).then(function(data) {
                         $scope.staticData = data;
                     });
-                },
+                }],
                 replace: true
             };
         }]);

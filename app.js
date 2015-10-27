@@ -30,7 +30,7 @@
             }];
 
         }])
-        .directive("ghStatic", function($staticContent) {
+        .directive("ghStatic", ['$staticContent', function($staticContent) {
             return {
                 restrict: 'E',
                 scope: true,
@@ -44,6 +44,6 @@
                 },
                 replace: true
             };
-        });
+        }]);
 
 }(window, window.angular);
